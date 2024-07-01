@@ -8,5 +8,4 @@ emoji
 preprocessor
 helper
 nltk
-re
 
