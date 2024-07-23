@@ -86,7 +86,7 @@ elif options == "Analyse Chat":
         df = preprocessor.preprocess(data)
 
         user_list = df['users'].unique().tolist()
-        user_list.remove('group_notification')
+        # user_list.remove('group_notification')
         user_list.sort()
         user_list.insert(0, "Overall")
 
