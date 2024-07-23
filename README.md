@@ -63,7 +63,6 @@ This Streamlit web application analyzes WhatsApp chat data to provide insights a
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request.
 
-## License
-This project is licensed under the MIT License 
+
 
 
