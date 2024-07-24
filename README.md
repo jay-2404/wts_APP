@@ -4,6 +4,13 @@ Site is Live @: https://wts-app.onrender.com/
 ## Overview
 This Streamlit web application analyzes WhatsApp chat data to provide insights and visualizations of chat statistics. You can upload your WhatsApp chat history and explore various metrics such as total messages, words, media shared, links shared, monthly and daily timelines, activity maps, word clouds, common words, and emoji analysis.
 
+## Use-Case:
+--This project can be helpful to track the activities of the users in the group.
+--Analyse the participation of group members.
+--Gain insights from chat in a visual and numeric manner.
+--Analysis can be specific in both overall view and  particular member view.
+
+
 ## Features
 - **Total Messages and Words**: See the total number of messages and words exchanged in the chat.
 - **Media and Links Shared**: Analyze the count of media files and links shared in the chat.
