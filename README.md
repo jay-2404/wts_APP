@@ -38,21 +38,20 @@ This Streamlit web application analyzes WhatsApp chat data to provide insights a
 4. Click on "Show Analysis" to generate visualizations and insights.
 
 ## Screenshots
-![Screenshot (643)](https://github.com/jay-2404/wts_APP/assets/128405000/bd086c1f-86af-437c-8a8a-98ea891ef00f)
-![Screenshot (644)](https://github.com/jay-2404/wts_APP/assets/128405000/8d77d4a9-c5e3-4d18-8a8c-4e680f578a84)
-![Screenshot (645)](https://github.com/jay-2404/wts_APP/assets/128405000/82602921-ad9a-4822-957a-fc26d3389384)
-![Screenshot (646)](https://github.com/jay-2404/wts_APP/assets/128405000/399ae5df-9573-47ee-83fe-e5806ce008c6)
-![Screenshot (647)](https://github.com/jay-2404/wts_APP/assets/128405000/3902e87f-08d6-4af3-8e38-78b0a3abac17)
-![Screenshot (648)](https://github.com/jay-2404/wts_APP/assets/128405000/2302987b-d109-4b61-98fd-66d9737e5bd8)
-![Screenshot (649)](https://github.com/jay-2404/wts_APP/assets/128405000/b5ce9ebf-8b6e-419a-9792-1e426b84b987)
-![Screenshot (650)](https://github.com/jay-2404/wts_APP/assets/128405000/6001df83-145a-421b-8e24-34623b0e852e)
-![Screenshot (651)](https://github.com/jay-2404/wts_APP/assets/128405000/326c8323-89dd-4508-8412-0005b79e6b02)
-![Screenshot (652)](https://github.com/jay-2404/wts_APP/assets/128405000/21906ada-e218-415d-947b-1e45ab2a6ffe)
-![Screenshot (653)](https://github.com/jay-2404/wts_APP/assets/128405000/81fecc33-b330-441a-b234-9de25ba935a8)
-![Screenshot (654)](https://github.com/jay-2404/wts_APP/assets/128405000/84978cad-1d45-4703-ac12-99ab6a203871)
-
-
-
+![Screenshot (684)](https://github.com/user-attachments/assets/b4cf9820-b0d9-4c89-a889-a9c975c30d5a)
+![Screenshot (685)](https://github.com/user-attachments/assets/693b709b-8e1c-40c7-ad9c-aa44db28ae2a)
+![Screenshot (686)](https://github.com/user-attachments/assets/f8f00f0f-a898-4db2-9419-296d57877407)
+![Screenshot (687)](https://github.com/user-attachments/assets/e2bd299d-5088-4e23-9029-5619c85c1107)
+![Screenshot (688)](https://github.com/user-attachments/assets/2105f6ef-5778-49e2-b717-4e8b5d40b043)
+![Screenshot (689)](https://github.com/user-attachments/assets/0af50640-5d8a-45cc-ae59-eefbdb2d67b5)
+![Screenshot (690)](https://github.com/user-attachments/assets/91a6b4a6-5d0e-480b-86c4-7dc7e3ad0a92)
+![Screenshot (691)](https://github.com/user-attachments/assets/1acff444-f123-43f3-9d54-53927fcb4f91)
+![Screenshot (692)](https://github.com/user-attachments/assets/02ed9b1e-dfe7-4425-aead-317385b80f50)
+![Screenshot (693)](https://github.com/user-attachments/assets/266e9588-516e-42fb-8bb0-c2a85bdd345c)
+![Screenshot (694)](https://github.com/user-attachments/assets/98518ad0-98aa-4084-8762-ca350af553d4)
+![Screenshot (695)](https://github.com/user-attachments/assets/c2b434ae-2fdf-4072-824f-b4f2447e5769)
+![Screenshot (696)](https://github.com/user-attachments/assets/b23b1b69-17ec-4cb1-824a-54a519d978fb)
+![Screenshot (697)](https://github.com/user-attachments/assets/e555425b-7a03-45b1-90d2-9e71a7c422c7)
 
 
 ## Built With
